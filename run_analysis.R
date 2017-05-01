@@ -92,3 +92,5 @@ meanData <- meanData[order(meanData$subject,meanData$activity),]
 # write out final file for submission.  
 write.table(meanData, file= "tidy.txt", sep="\t", row.name=FALSE)
 
+# get output varialbes for codebook
+# names(finalData)
