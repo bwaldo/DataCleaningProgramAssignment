@@ -1,4 +1,4 @@
-# DataCleaningProgramAssignment
+# Data Cleaning Program Assignment
 This repo contains the files necessary to complete the final programming assignment
 Getting and Cleaning Data Course Project
 
