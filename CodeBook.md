@@ -1,8 +1,8 @@
-##CodeBook
+## CodeBook
 
 Full description of the data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-#Library used: dplyr
+# Library used: dplyr
 
 Aquire and and save data to local working directgory
   * The data has been unziped and placed in the local working directory for processing
